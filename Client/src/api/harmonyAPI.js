@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5050/harmony';
+const API_BASE_URL = 'https://addis-software-ib3q.onrender.com/harmony';
 
 export const fetchSongs = async () => {
     try {
