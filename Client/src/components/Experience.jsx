@@ -8,7 +8,7 @@ function Experience() {
       <img src={require("../img/Path 318.png")} alt="" className="w-[5rem]" />
       {/* heading */}
       <div className="headline mt-7 flex flex-col items-center text-[2rem]">
-        <span>An Music App Can Change Your Daily Life</span>
+        <span> Music App Can Change Your Daily Life</span>
         <span>
           <b>Music Experience</b>
         </span>
