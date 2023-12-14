@@ -51,7 +51,7 @@ function Hero() {
           </span>
           <span className=" text-[15px] text-[#525D6E]">
           Welcome to the ultimate destination for Ethiopian music lovers!
-          <br /> Our music web platform is dedicatedto celebrating 
+          <br /> Our music web platform is dedicated to celebrating 
           <br /> the rich and diverse musical traditions of Ethiopia.
            
             
